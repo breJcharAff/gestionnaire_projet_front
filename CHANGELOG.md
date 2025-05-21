@@ -1,3 +1,10 @@
+# 1.0.0 (2025-05-21)
+
+
+### Bug Fixes
+
+* logo project ([cb15804](https://github.com/breJcharAff/gestionnaire_projet_front/commit/cb15804ef8ef07b20712d5ad3e54733aab443a0c))
+
 ## [3.67.2](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.67.1...v3.67.2) (2025-05-09)
 
 
