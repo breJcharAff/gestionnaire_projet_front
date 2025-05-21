@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Next-js-Boilerplate.iml" filepath="$PROJECT_DIR$/.idea/Next-js-Boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gestionnaire_projet_front.iml" filepath="$PROJECT_DIR$/.idea/gestionnaire_projet_front.iml" />
     </modules>
   </component>
 </project>

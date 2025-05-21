@@ -27,9 +27,9 @@ if (!process.env.NEXT_PUBLIC_SENTRY_DISABLED) {
   configWithPlugins = withSentryConfig(configWithPlugins, {
     // For all available options, see:
     // https://www.npmjs.com/package/@sentry/webpack-plugin#options
-    // FIXME: Add your Sentry organization and project names
-    org: 'nextjs-boilerplate-org',
-    project: 'nextjs-boilerplate',
+    // Add your Sentry organization and project names
+    org: 'esgi-org',
+    project: 'gestionnaire_projet_front',
 
     // Only print logs for uploading source maps in CI
     silent: !process.env.CI,
